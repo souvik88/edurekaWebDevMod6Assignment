@@ -1,0 +1,7 @@
+Assignment
+
+BootStrap3 Top Fixed Dropdown Navigation Bar – Create a Bootstrap3 top fixed dropdown navigation bar having Products, Blog, About, Contact Us menu. With Products menu having Middleware,  Database,  Application,  Servers  as  submenu  also  provide  the  brand  icon  on navigation bar.
+
+Bootstrap3 Accordion – Create a Bootstrap3 accordion with different panel colors.
+
+Bootstrap3  Font  Awesome  Icons – Use  font-awesome  to  display  google+, Facebook, LinkedIn social icons
